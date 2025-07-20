@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Halaman utama -->
+  <!-- Beranda -->
   <url>
     <loc>https://waveforearth.com/waweforearth</loc>
     <lastmod>2025-07-20</lastmod>
@@ -9,14 +9,36 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Tambahkan halaman lain jika ada -->
-  <!--
+  <!-- About -->
   <url>
     <loc>https://waveforearth.com/waweforearth/about</loc>
     <lastmod>2025-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  -->
+
+  <!-- Gallery -->
+  <url>
+    <loc>https://waveforearth.com/waweforearth/gallery</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://waveforearth.com/waweforearth/blog</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://waveforearth.com/waweforearth/contact</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
 
 </urlset>
